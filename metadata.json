@@ -1,0 +1,8 @@
+{
+  "name": "Nortix Messenger",
+  "description": "A high-performance, futuristic messenger with real-time chats, voice calls, screen sharing, and AI integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
